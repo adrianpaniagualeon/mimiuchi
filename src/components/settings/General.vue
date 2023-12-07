@@ -89,6 +89,10 @@ export default {
             {
                 title: "日本語（日本）",
                 value: "ja"
+            },
+            {
+                title: "Spanish (Spain）",
+                value: "es"
             }
         ],
 
